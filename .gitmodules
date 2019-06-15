@@ -1,0 +1,18 @@
+[submodule "kicad/footprints/main"]
+	path = kicad/footprints/main
+	url = git@github.com:KiCad/kicad-footprints.git
+[submodule "kicad/footprints/user"]
+	path = kicad/footprints/user
+	url = git@github.com:klauspetersen/kicad-footprints-user.git
+[submodule "kicad/symbols/main"]
+	path = kicad/symbols/main
+	url = git@github.com:KiCad/kicad-symbols.git
+[submodule "kicad/symbols/user"]
+	path = kicad/symbols/user
+	url = git@github.com:klauspetersen/kicad-symbols-user.git
+[submodule "kicad/packages3d/main"]
+	path = kicad/packages3d/main
+	url = git@github.com:KiCad/kicad-packages3D.git
+[submodule "kicad/packages3d/user"]
+	path = kicad/packages3d/user
+	url = git@github.com:klauspetersen/kicad-packages3d-user.git
