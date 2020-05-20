@@ -16,3 +16,9 @@
 [submodule "kicad/packages3d/user"]
 	path = kicad/packages3d/user
 	url = git@github.com:klauspetersen/kicad-packages3d-user.git
+[submodule "user"]
+	path = user
+	url = /scratch/kicad/footprints/user
+[submodule "main"]
+	path = main
+	url = /scratch/kicad/symbols/main
